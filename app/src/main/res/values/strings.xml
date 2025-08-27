@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="label_enter_student_name">Enter Student Name:</string>
+    <string name="label_main_title">Main Title</string>
+    <string name="label_body">Text body</string>
+
+    <string name="hint_enter_message">Enter Message</string>
+    <string name="label_submit">Submit</string>
+    <string name="label_mock_enter_text">You entered:</string>
+</resources>
